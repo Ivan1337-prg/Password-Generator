@@ -1,4 +1,4 @@
-# Password-Generator-3
+# Password-Generator
 Challenge Module 03
 
 
